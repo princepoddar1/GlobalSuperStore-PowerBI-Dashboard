@@ -27,5 +27,5 @@ The dashboard includes:
 ---
 
 ### 🧑‍💻 Author
-**Pritam Poddar**  
+**Prince**  
 (Fresher | Data Analyst Learner)
