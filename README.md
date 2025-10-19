@@ -57,7 +57,11 @@ It helps businesses track performance, analyze sales trends, and make data-drive
 ---
 
 ## 📸 Screenshots
+Dashboard view:
+
 https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-1.png
+
+https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-2.png
 
 
 
@@ -78,20 +82,3 @@ https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Po
 
 **Prince**  
 *Fresher | Data Analyst Learner*  
-
-📧 Email: *[Add your email here]*  
-🔗 GitHub: [yourusername](https://github.com/yourusername)
-
----
-
-## 🏷️ Tags / Topics
-
-`powerbi` `data-visualization` `dashboard` `data-analysis` `business-intelligence` `global-superstore` `sales-performance`
-
----
-
-## 💡 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/global-superstore-powerbi.git
