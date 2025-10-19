@@ -59,9 +59,9 @@ It helps businesses track performance, analyze sales trends, and make data-drive
 ## 📸 Screenshots
 Dashboard view:
 
-https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-1.png
+(https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-1.png)
 
-https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-2.png
+(https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-2.png)
 
 
 
