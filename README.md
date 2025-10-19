@@ -56,16 +56,12 @@ It helps businesses track performance, analyze sales trends, and make data-drive
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
+https://github.com/princepoddar1/GlobalSuperStore-PowerBI-Dashboard/blob/main/Power-BI-Dashboard-1.png
 
-> Add screenshots of your Power BI dashboard here after exporting visuals.  
-> Create a folder named `screenshots/` and place your images there.
 
-| Dashboard Page | Screenshot |
-|----------------|-------------|
-| Overview | ![Overview Screenshot](screenshots/overview.png) |
-| Regional Analysis | ![Regional Screenshot](screenshots/region.png) |
-| Target Analysis | ![Target Screenshot](screenshots/target.png) |
+
+
 
 ---
 
